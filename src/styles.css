@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.label input {
+  margin-left: 16px;
+}
+
+.foo {
+  margin-top: 200px;
+}
